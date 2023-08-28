@@ -1,3 +1,5 @@
+library(tidyverse)
+
 # Reset the random number generator
 set.seed(34) 
 
